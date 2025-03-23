@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
 I am currently a Ph.D. student at the Department of Electronic and Computer Engineering (ECE),Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Yiwen Wang](https://bmi.hkust.edu.hk/PI). Prior to HKUST, I obtained my Bachelor's degree from Zhejiang University (ZJU) in 2020 and received MPhil degree from HKUST in 2022.
 
 My research focuses on using **advanced and biologically explainable machine learning algorithms** to develop high-performance **Brain-machine Interface (BMI)**.  I am now working on using **Inverse Reinforcement Learning** method to extract self-evaluation information from subjects' neural activity to improve RL-based BMI frameworks. I am also leading a project which studies on developing **adaptive closed-loop intra-cortical microstimulation** to induce target neural population pattern.  
